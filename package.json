@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "pnpm": "6.32.10"
+  },
   "name": "client",
   "version": "0.1.0",
   "private": true,
